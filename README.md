@@ -16,8 +16,14 @@
 - Intelligent rescue system based on DL for UAVS
 - Vision System for 3D Human Pose based on DL
 
+**Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018-2022_)**
+-Developing a hyperspectral vision system based on the single-pixel principle (NIR).
+-Multi-sensor.
+-Sensor vision for autonomous vehicles.
+
+
 ## Patents
-- 3D-NIR enlarged creation image system and method,MX/a/2022/016091.
+- 3D-NIR enlarged creation image system and method, MX/a/2022/016091.
 - Hybrid 3D imaging system,MX/a/2020/012197.
 
 ## Honor and Awards
