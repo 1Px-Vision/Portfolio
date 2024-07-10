@@ -1,5 +1,7 @@
 # Senior Electrical Engineer, PhD – Research & Development, ICTP Associate
 
+![](https://github.com/1Px-Vision/Portfolio/blob/main/git.jpg)
+
 #### Technical Skills: Space Science, Remote Sensing, Computing Vision, Python, C/C++, Labview, Matlab, ANSYS, SolidWorks, ML/DL, Electronic design and PCB, Signal Integrity, GNURadio, Linux
 
 
