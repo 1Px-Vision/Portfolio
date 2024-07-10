@@ -4,6 +4,10 @@
 
 #### Technical Skills: Space Science, Remote Sensing, Computing Vision, Python, C/C++, Labview, Matlab, ANSYS, SolidWorks, ML/DL, Electronic design and PCB, Signal Integrity, GNURadio, Linux
 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+
 Personal Website [Website](https://www.1px-vision.com/)
 
 ## Education
