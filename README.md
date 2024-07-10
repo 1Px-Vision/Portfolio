@@ -51,6 +51,8 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Publications
 
+* C. Osorio Quero and J. Martinez-Carranza. "Emergent Vision Technology: 3D Human Pose Estimation for Single-pixel Imaging (SPI)". In: IEEE Sensors Journal, (Peer-Review)
+
 * C. Osorio Quero and J. Martinez-Carranza. "Physics-Informed Machine Learning for UAV Control". In:2024 21th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE) (Peer-Review)
 
 * C. A. Osorio Quero "Inpainting of images using GAN-UNet with Second Order Total Variation". In: J. Opt. Soc. Am., (Peer-Review)
