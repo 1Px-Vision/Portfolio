@@ -15,6 +15,7 @@
 **Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
 - Intelligent rescue system based on DL for UAVS
 - Vision System for 3D Human Pose based on DL
+  
 **Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018-2022_)**
 -Developing a hyperspectral vision system based on the single-pixel principle (NIR)
 -Multi-sensor
