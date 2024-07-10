@@ -4,9 +4,6 @@
 
 #### Technical Skills: Space Science, Remote Sensing, Computing Vision, Python, C/C++, Labview, Matlab, ANSYS, SolidWorks, ML/DL, Electronic design and PCB, Signal Integrity, GNURadio, Linux
 
-<script src="http://[YOUR SERVER LOCATION FOR THE SCRIPT]/orcid-widget.js"></script>
-<div id="orcidWidget" data-clientid='[YOUR ORCID API CLIENT ID]' data-redirecturi='[URI OF THE PAGE YOU HAVE PASTED THIS CODE INTO]'></div>
-
 Personal Website [Website](https://www.1px-vision.com/)
 
 ## Education
