@@ -13,6 +13,10 @@
 [![OrCid](https://github.com/1Px-Vision/Portfolio/blob/main/Orcid.jpg) OrCid](https://orcid.org/0000-0003-4092-127X)
 &nbsp;
 [![Website](https://github.com/1Px-Vision/Portfolio/blob/main/Website_icon.jpg) Website](https://www.1px-vision.com/)
+&nbsp;
+[![Youtube](https://github.com/1Px-Vision/Portfolio/blob/main/Youtube_icon.jpg)](https://www.youtube.com/channel/UCmslU__Y9ibwQWu4IzICmpg)
+
+
 
 ## Education
 - Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sept 2022_)
