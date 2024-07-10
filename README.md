@@ -75,11 +75,18 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 * C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Evaluation of a 3D imaging vision system based on a single-pixel InGaAs detector and the time-of-flight principle for drones," Proc. SPIE 11402, Three-Dimensional Imaging, Visualization, and Display 2020, 114020T (27 April 2020); https://doi.org/10.1117/12.2558918
 
-C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Hardware parallel architecture proposed to accelerate the orthogonal matching pursuit compressive sensing reconstruction," Proc. SPIE 11396, Computational Imaging V, 113960N (4 May 2020); https://doi.org/10.1117/12.2558937
+* C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Hardware parallel architecture proposed to accelerate the orthogonal matching pursuit compressive sensing reconstruction," Proc. SPIE 11396, Computational Imaging V, 113960N (4 May 2020); https://doi.org/10.1117/12.2558937
 
-C. Osorio Quero, D. Durini, R. Ramos-García, J. Rangel-Magdaleno, J. Martinez-Carranza, J. L. Olvera, A. Corona, "Implementation of a hyperspectral integrated vision system combining radar technology and single-pixel optical principle for unmanned ground vehicles (UGV)," Proc. SPIE 11408, Radar Sensor Technology XXIV, 1140815 (28 April 2020); https://doi.org/10.1117/12.2558929
+* C. Osorio Quero, D. Durini, R. Ramos-García, J. Rangel-Magdaleno, J. Martinez-Carranza, J. L. Olvera, A. Corona, "Implementation of a hyperspectral integrated vision system combining radar technology and single-pixel optical principle for unmanned ground vehicles (UGV)," Proc. SPIE 11408, Radar Sensor Technology XXIV, 1140815 (28 April 2020); https://doi.org/10.1117/12.2558929
 
-C. A. Osorio Quero, D. D. Romero, R. Ramos-Garcia, J. de Jesus Rangel-Magdaleno and J. Martinez-Carranza, "Towards a 3D Vision System based on Single-Pixel imaging and indirect Time-of-Flight for drone applications," 2020 17th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2020, pp. 1-6, doi: 10.1109/CCE50788.2020.9299125.
+* C. A. Osorio Quero, D. D. Romero, R. Ramos-Garcia, J. de Jesus Rangel-Magdaleno and J. Martinez-Carranza, "Towards a 3D Vision System based on Single-Pixel imaging and indirect Time-of-Flight for drone applications," 2020 17th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2020, pp. 1-6, doi: 10.1109/CCE50788.2020.9299125.
+
+* A. Vidal,G. Viesti,C. Osorio,F. Pino,A. Horvath,H. Barros,M. Caldogno,E. D. Greaves and L. Sajo-Bohus. "Multiphase Monitoring by Annihilation Radiation Coincidence Mode".In:AIP Conference Proceedings, Feb.29,2012,https://doi.org/10.1063/1.3688838.
+  
+* C. Osorio. "Telemetry System The Solar Car ARAGUANEY AUSB2009-130103". In:VIII ASME Engineering Annual Congress USB 2009, Nov.26, 2009, https://doi.org/10.13140/RG.2.1.1752.8400.
+  
+* C. Osorio,J. Bastardo,L. and Sajó-Bohus. "Modernization of the Physics Laboratory by using HP Mobile Technology". In: Annual Worldwide HP Technology for Teaching Higher Education Conference, Feb. 5, 2007. https://www.hp.com/hpinfo/socialinnovation/us/programs/tech-teaching/hied-global-la.htmlvenezuela
+
 
 
 
