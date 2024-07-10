@@ -22,6 +22,7 @@
 -Sensor vision for autonomous vehicles
 
 **RF Design Engineer @ (INAOE) (_Sep 2017- Dic 2022_)**
+-Development of terminal compact GSM for emergency communication and embedded systems FPGA/DSP
 
 
 
