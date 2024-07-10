@@ -8,7 +8,7 @@
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/1Px-Vision)
 &nbsp;
-[![ResearchGate](https://iconduck.com/icons/21310/researchgate)](https://www.researchgate.net/profile/Carlos-Osorio-11)
+[![ResearchGate](https://github.com/1Px-Vision/Portfolio/blob/main/researchgate.svg)](https://www.researchgate.net/profile/Carlos-Osorio-11)
 
 Personal Website [Website](https://www.1px-vision.com/)
 
