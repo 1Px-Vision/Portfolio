@@ -10,7 +10,6 @@
 &nbsp;
 [![ResearchGate](https://iconduck.com/icons/21310/researchgate) ResearchGate](https://www.researchgate.net/profile/Carlos-Osorio-11)
 
-
 Personal Website [Website](https://www.1px-vision.com/)
 
 ## Education
