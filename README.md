@@ -32,6 +32,13 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 * Development of terminal compact GSM for emergency communication and embedded systems FPGA/DSP.
 
+### **Academic Assistant  @ (Simón Bolívar University-Venezuela) (_Sep 2004- Jun 2015_) **
+* Nuclear Physics group.
+* Laboratory Communications.
+
+### **Research and Development Engineer  @ (INFN - Laboratori Nazionali di Legnaro-Italy) (_Jan 2012- Dic 2012_) **
+* Control systems design for stage a particle filter for a particle accelerator Wein fourth-generation SPES project.
+
 ## Patents
 - 3D-NIR enlarged creation image system and method, MX/a/2022/016091.
 - Hybrid 3D imaging system,MX/a/2020/012197.
