@@ -11,8 +11,8 @@
 [![ResearchGate](https://github.com/1Px-Vision/Portfolio/blob/main/Researchgate_1.jpg) ResearchGate](https://www.researchgate.net/profile/Carlos-Osorio-11)
 &nbsp;
 [![OrCid](https://github.com/1Px-Vision/Portfolio/blob/main/Orcid.jpg) OrCid](https://orcid.org/0000-0003-4092-127X)
-
-Personal Website [Website](https://www.1px-vision.com/)
+&nbsp;
+[![Website](https://github.com/1Px-Vision/Portfolio/blob/main/Website_icon.jpg) Website](https://www.1px-vision.com/)
 
 ## Education
 - Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sept 2022_)
