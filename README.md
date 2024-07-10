@@ -3,7 +3,7 @@
 #### Technical Skills: Space Science, Remote Sensing, Computing Vision, Python, C/C++, ANSYS, SolidWorks,ML/DL
 
 ## Education
-- Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sept 2022_)
+- Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sep 2022_)
 - M.Sc, Space Science and Technology | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Agos 2017_)
 - Diploma of Higher Education in electric car and hydrogen | San Jorge University-Spain (_July 2016_)
 - M.Sc, Electronic Engineering  | Simon Bolivar University-Venezuela (_March 2015_)
@@ -15,11 +15,14 @@
 **Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
 - Intelligent rescue system based on DL for UAVS
 - Vision System for 3D Human Pose based on DL
-  
-**Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018-2022_)**
+
+**Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018- Sep 2022_)**
 -Developing a hyperspectral vision system based on the single-pixel principle (NIR)
 -Multi-sensor
 -Sensor vision for autonomous vehicles
+
+**RF Design Engineer @ (INAOE) (_Sep 2017- Dic 2022_)**
+
 
 
 
