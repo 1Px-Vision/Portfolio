@@ -15,8 +15,8 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Work Experience
 **Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
-*An intelligent rescue system is based on DL for UAVS.
-* Vision System for 3D Human Pose based on DL.
+-- An intelligent rescue system is based on DL for UAVS.
+-- Vision System for 3D Human Pose based on DL.
 
 **Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018- Sep 2022_)**
 *Developing a hyperspectral vision system based on the single-pixel principle (NIR).
