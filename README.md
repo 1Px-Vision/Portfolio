@@ -51,7 +51,7 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Publications
 
--C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. 
+* C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. 
 
 Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Enhancing 3D human pose estimation with NIR single-pixel imaging and time-of-flight technology: a deep learning approach," J. Opt. Soc. Am. A 41, 414-423 (2024)
 
