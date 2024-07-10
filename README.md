@@ -51,8 +51,9 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Publications
 
+* C. Osorio Quero and J. Martinez-Carranza. "Physics-Informed Machine Learning for UAV Control". In:2024 21th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE) (Peer-Review)
 
-*C. A. Osorio Quero "Inpainting of images using GAN-UNet with Second Order Total Variation". In: J. Opt. Soc. Am., (Peer-Review)
+* C. A. Osorio Quero "Inpainting of images using GAN-UNet with Second Order Total Variation". In: J. Opt. Soc. Am., (Peer-Review)
 
 * C. A. Osorio Quero, D. Durini, Jose Rangel-Magdaleno, Ruben Ramos-Garcia, J. Martinez-Carranza. "Accelerating the Fast Hadamard Single-Pixel Imaging (FHSI) on GPUs: Techniques and Optimizations". In: Journal of Machine Vision and Applications,(Peer-Review)
 
