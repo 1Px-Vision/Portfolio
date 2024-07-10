@@ -4,8 +4,6 @@
 
 Personal Website [Website](https://www.1px-vision.com/)
 
-![Emer_SPI](https://github.com/1Px-Vision/Emerging_Vision_Technology/assets/150855410/4efb1afd-272c-499c-b024-ccbad3bd8f90)
-
 ## Education
 - Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sep 2022_)
 - M.Sc, Space Science and Technology | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Agos 2017_)
