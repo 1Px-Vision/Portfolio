@@ -7,6 +7,9 @@
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlos-osorio-528b3188/)
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/1Px-Vision)
+&nbsp;
+[![ResearchGate](https://i.sstatic.net/tskMh.png) ResearchGate](https://www.researchgate.net/profile/Your-Profile-Name)
+
 
 Personal Website [Website](https://www.1px-vision.com/)
 
