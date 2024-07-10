@@ -9,6 +9,8 @@
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/1Px-Vision)
 &nbsp;
 [![ResearchGate](https://github.com/1Px-Vision/Portfolio/blob/main/Researchgate_1.jpg) ResearchGate](https://www.researchgate.net/profile/Carlos-Osorio-11)
+&nbsp;
+[![OrCid](https://github.com/1Px-Vision/Portfolio/blob/main/Orcid.jpg) OrCid](https://orcid.org/0000-0003-4092-127X)
 
 Personal Website [Website](https://www.1px-vision.com/)
 
