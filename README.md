@@ -51,27 +51,29 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Publications
 
+* Carlos Osorio Quero, Daniel Leykam, and Irving Rondon Ojeda, "Res-U2Net: untrained deep learning for phase retrieval and image reconstruction," J. Opt. Soc.Am. A 41, 766-773 (2024)
+
 * C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. 
 
-Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Enhancing 3D human pose estimation with NIR single-pixel imaging and time-of-flight technology: a deep learning approach," J. Opt. Soc. Am. A 41, 414-423 (2024)
+* Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Enhancing 3D human pose estimation with NIR single-pixel imaging and time-of-flight technology: a deep learning approach," J. Opt. Soc. Am. A 41, 414-423 (2024)
 
-Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Deep-learning blurring correction of images obtained from NIR single-pixel imaging," J. Opt. Soc. Am. A 40, 1491-1499 (2023)
+* Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Deep-learning blurring correction of images obtained from NIR single-pixel imaging," J. Opt. Soc. Am. A 40, 1491-1499 (2023)
 
-Osorio Quero, C.; Durini, D.; Rangel-Magdaleno, J.; Martinez-Carranza, J.; Ramos-Garcia, R. Single-Pixel Near-Infrared 3D Image Reconstruction in Outdoor Conditions. Micromachines 2022, 13, 795. https://doi.org/10.3390/mi13050795
+* Osorio Quero, C.; Durini, D.; Rangel-Magdaleno, J.; Martinez-Carranza, J.; Ramos-Garcia, R. Single-Pixel Near-Infrared 3D Image Reconstruction in Outdoor Conditions. Micromachines 2022, 13, 795. https://doi.org/10.3390/mi13050795
 
-Carlos A. Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza; Single-pixel imaging: An overview of different methods to be used for 3D space reconstruction in harsh environments. Rev. Sci. Instrum. 1 November 2021; 92 (11): 111501. https://doi.org/10.1063/5.0050358
+* Carlos A. Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza; Single-pixel imaging: An overview of different methods to be used for 3D space reconstruction in harsh environments. Rev. Sci. Instrum. 1 November 2021; 92 (11): 111501. https://doi.org/10.1063/5.0050358
 
-A. M. García, C. O. Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. D. Romero, "Edge computing SoC implementation of compressive sensing algorithm for single-pixel cameras," 2021 18th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2021, pp. 1-5, doi: 10.1109/CCE53527.2021.9633023.
+* A. M. García, C. O. Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. D. Romero, "Edge computing SoC implementation of compressive sensing algorithm for single-pixel cameras," 2021 18th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2021, pp. 1-5, doi: 10.1109/CCE53527.2021.9633023.
 
-C. Osorio Quero, D. Durini Romero, J. Rangel-Magdaleno, J. Martinez Carranza, R. Ramos-Garcia, "2D/3D single-pixel NIR image reconstruction method for outdoor applications in presence of rain," Proc. SPIE 11914, SPIE Future Sensing Technologies 2021, 1191415 (14 November 2021); https://doi.org/10.1117/12.2601118
+* C. Osorio Quero, D. Durini Romero, J. Rangel-Magdaleno, J. Martinez Carranza, R. Ramos-Garcia, "2D/3D single-pixel NIR image reconstruction method for outdoor applications in presence of rain," Proc. SPIE 11914, SPIE Future Sensing Technologies 2021, 1191415 (14 November 2021); https://doi.org/10.1117/12.2601118
 
-A. Manjarres Garcia, C. Osorio Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. Durini Romero, "Parallel-Pipeline Fast Walsh-Hadamard Transform Implementation Using HLS," 2021 International Conference on Field-Programmable Technology (ICFPT), Auckland, New Zealand, 2021, pp. 1-4, doi: 10.1109/ICFPT52863.2021.9609874.
+* A. Manjarres Garcia, C. Osorio Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. Durini Romero, "Parallel-Pipeline Fast Walsh-Hadamard Transform Implementation Using HLS," 2021 International Conference on Field-Programmable Technology (ICFPT), Auckland, New Zealand, 2021, pp. 1-4, doi: 10.1109/ICFPT52863.2021.9609874.
 
-C. O. Quero, A. M. García, D. Durini, J. Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Toward a single-pixel near-infrared low-resolution 2D image reconstruction strategy," 2021 18th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2021, pp. 1-6, doi: 10.1109/CCE53527.2021.9633097.
+* C. O. Quero, A. M. García, D. Durini, J. Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Toward a single-pixel near-infrared low-resolution 2D image reconstruction strategy," 2021 18th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2021, pp. 1-6, doi: 10.1109/CCE53527.2021.9633097.
 
-C. A. O. Quero, D. Durini, J. d. J. Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "2D NIR-SPI spatial resolution evaluation under scattering condition," 2022 19th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2022, pp. 1-6, doi: 10.1109/CCE56709.2022.9975875.
+* C. A. O. Quero, D. Durini, J. d. J. Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "2D NIR-SPI spatial resolution evaluation under scattering condition," 2022 19th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2022, pp. 1-6, doi: 10.1109/CCE56709.2022.9975875.
 
-C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Evaluation of a 3D imaging vision system based on a single-pixel InGaAs detector and the time-of-flight principle for drones," Proc. SPIE 11402, Three-Dimensional Imaging, Visualization, and Display 2020, 114020T (27 April 2020); https://doi.org/10.1117/12.2558918
+* C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Evaluation of a 3D imaging vision system based on a single-pixel InGaAs detector and the time-of-flight principle for drones," Proc. SPIE 11402, Three-Dimensional Imaging, Visualization, and Display 2020, 114020T (27 April 2020); https://doi.org/10.1117/12.2558918
 
 C. Osorio Quero, D. Durini, R. Ramos-Garcia, J. Rangel-Magdaleno, J. Martinez-Carranza, "Hardware parallel architecture proposed to accelerate the orthogonal matching pursuit compressive sensing reconstruction," Proc. SPIE 11396, Computational Imaging V, 113960N (4 May 2020); https://doi.org/10.1117/12.2558937
 
