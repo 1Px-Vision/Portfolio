@@ -12,7 +12,9 @@
 - Diploma of Higher Education Electronics | I.U.T. Dr.Federico Rivero Palacios Venezuela (_Oct 2003_)
 
 ## Work Experience
-
+** Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
+- Intelligent rescue system based on DL for UAVS
+- Vision System for 3D Human Pose based on DL
 
 ## Patents
 - 3D-NIR enlarged creation image system and method,MX/a/2022/016091.
