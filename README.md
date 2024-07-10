@@ -8,12 +8,12 @@
 Personal Website [Website](https://www.1px-vision.com/)
 
 ## Education
-- Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sep 2022_)
-- M.Sc, Space Science and Technology | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Agos 2017_)
+- Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sept 2022_)
+- M.Sc, Space Science and Technology | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Agus 2017_)
 - Diploma of Higher Education in electric car and hydrogen | San Jorge University-Spain (_July 2016_)
-- M.Sc, Electronic Engineering  | Simon Bolivar University-Venezuela (_March 2015_)
+- M.Sc, Electronic Engineering  | Simon Bolivar University-Venezuela (_Mar 2015_)
 - Diploma of Higher Education in Mobile Communications | UPEL-IPMJMSM-Venezuela (_Oct 2015_)
-- Bs, Electronic Engineering  | Simon Bolivar University-Venezuela (_Jun 2009_)
+- Bs, Electronic Engineering  | Simon Bolivar University-Venezuela (_June 2009_)
 - Diploma of Higher Education Electronics | I.U.T. Dr.Federico Rivero Palacios Venezuela (_Oct 2003_)
 
 ## Work Experience
@@ -22,17 +22,17 @@ Personal Website [Website](https://www.1px-vision.com/)
 * An intelligent rescue system is based on DL for UAVS.
 * Vision System for 3D Human Pose based on DL.
 
-### **Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018- Sep 2022_)**
+### **Research Engineering Assistant| Ph.D. student  @ (INAOE) (_Jan 2018- Sept 2022_)**
 
 * Developing a hyperspectral vision system based on the single-pixel principle (NIR).
 * Multi-sensor.
 * Sensor vision for autonomous vehicles.
 
-### **RF Design Engineer @ (INAOE) (_Sep 2017- Dic 2022_)**
+### **RF Design Engineer @ (INAOE) (_Sept 2017- Dic 2022_)**
 
 * Development of terminal compact GSM for emergency communication and embedded systems FPGA/DSP.
 
-### **Academic Assistant  @ (Simón Bolívar University-Venezuela) (_Sep 2004- Jun 2015_)**
+### **Academic Assistant  @ (Simón Bolívar University-Venezuela) (_Sept 2004- June 2015_)**
 * Nuclear Physics group.
 * Laboratory Communications.
 
