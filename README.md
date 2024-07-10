@@ -4,9 +4,9 @@
 
 #### Technical Skills: Space Science, Remote Sensing, Computing Vision, Python, C/C++, Labview, Matlab, ANSYS, SolidWorks, ML/DL, Electronic design and PCB, Signal Integrity, GNURadio, Linux
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlos-osorio-528b3188/)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/1Px-Vision)
 
 Personal Website [Website](https://www.1px-vision.com/)
 
