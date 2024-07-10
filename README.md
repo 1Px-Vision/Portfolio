@@ -1,4 +1,4 @@
-# Senior Electrical Engineer, PhD – Research & Development, ICTP Associate
+# Senior Electrical Engineer, PhD – Research & Development, ICTP Associate, Member IEEE
 
 ![](https://github.com/1Px-Vision/Portfolio/blob/main/git.jpg)
 
