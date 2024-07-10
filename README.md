@@ -17,7 +17,7 @@ Personal Website [Website](https://www.1px-vision.com/)
 - Diploma of Higher Education Electronics | I.U.T. Dr.Federico Rivero Palacios Venezuela (_Oct 2003_)
 
 ## Work Experience
-**Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
+# **Postdoctoral Research | Computer Science @ (INAOE) (_Sept 2023- Present_)**
 
 - An intelligent rescue system is based on DL for UAVS.
 - Vision System for 3D Human Pose based on DL.
