@@ -51,6 +51,15 @@ Personal Website [Website](https://www.1px-vision.com/)
 
 ## Publications
 
+
+*C. A. Osorio Quero "Inpainting of images using GAN-UNet with Second Order Total Variation". In: J. Opt. Soc. Am., (Peer-Review)
+
+* C. A. Osorio Quero, D. Durini, Jose Rangel-Magdaleno, Ruben Ramos-Garcia, J. Martinez-Carranza. "Accelerating the Fast Hadamard Single-Pixel Imaging (FHSI) on GPUs: Techniques and Optimizations". In: Journal of Machine Vision and Applications,(Peer-Review)
+
+* C. A. Osorio Quero, D. Durini, and J. Martinez-Carranza. "Reviewing Unmanned Aerial Systems in Search and Rescue Technology: Exploring Open Challenges and Future Applications". In: International Journal of Disaster Risk Reduction (Peer-Review)
+
+* C. A. Osorio Quero,Daniel Durini, Irving Rondon, Jose Rangel-Magdaleno,Jose Martinez-Carranza. "Advancing NIR Single-Pixel Imaging with Deep Image Prior and Generative Adversarial Networks". In: Optics & Laser Technology (Peer-Review)
+
 * Carlos Osorio Quero, Daniel Leykam, and Irving Rondon Ojeda, "Res-U2Net: untrained deep learning for phase retrieval and image reconstruction," J. Opt. Soc.Am. A 41, 766-773 (2024)
 
 * C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. 
