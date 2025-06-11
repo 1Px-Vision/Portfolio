@@ -69,21 +69,26 @@
 - Mentoring and teaching several undergraduate and graduate students. Projects in instrumentation and control of electric cars.
 - Co-tutor Bachelor’s thesis (Simon Bolivar University): "Design and implementation of a vehicle control system (VCS) for an electric vehicle with in-wheel motor and read powertrain (IRWD)."
 
+## Book Chapter 
+* Carlos Osorio and Jose Martinez-Carranza, "CNN-Quantized Based RF Signal Identification for UAV Disaster Navigation," CRC Press from the Taylor & Francis Group (Accepted).
+  
 ## Publications
 
-* C. Osorio Quero and J. Martinez-Carranza. "Emergent Vision Technology: 3D Human Pose Estimation for Single-pixel Imaging (SPI)". In: IEEE Sensors Journal, (Peer-Review)
+* Carlos Osorio Quero and Jose Martinez-Carranza, "Real-Time Acceleration of Fast Hadamard Single-Pixel Imaging using Advanced GPU Parallel Computing". Journal of Parallel and Distributed Computing (Peer-Review)
 
-* C. Osorio Quero and J. Martinez-Carranza. "Physics-Informed Machine Learning for UAV Control". In:2024 21th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE) (Peer-Review)
+* Osorio Quero, C. Martinez-Carranza, J. "Quantized SEFSNet: A Resource-Efficient Approach to RF Signal Identification for UAV-Assisted Disaster Navigation".Digital Signal Processing (Peer-Review) 
 
-* C. A. Osorio Quero "Inpainting of images using GAN-UNet with Second Order Total Variation". In: J. Opt. Soc. Am., (Peer-Review)
+*  C. Osorio Quero, D. Durini, and J. Martinez-Carranza. “ViT-Based Classification and Self-Supervised 3D Human Mesh Generation from NIR Single-Pixel Imaging”. In: Applied Sciences 15.11 (2025).issn: 2076-3417. doi: 10.3390/app15116138. url: https://www.mdpi.com/2076-3417/15/11/6138
+   
+* C. O. Quero and J. Martinez-Carranza. “Unmanned aerial systems in search and rescue: A global perspective on current challenges and future applications”. In: International Journal of Disaster Risk Reduction 118 (2025), p. 105199. issn: 2212-4209. doi: https://doi.org/10.1016/j.ijdrr.2025.105199. url: https ://www .sciencedirect.com/science/article/pii/S2212420925000238
 
-* C. A. Osorio Quero, D. Durini, Jose Rangel-Magdaleno, Ruben Ramos-Garcia, J. Martinez-Carranza. "Accelerating the Fast Hadamard Single-Pixel Imaging (FHSI) on GPUs: Techniques and Optimizations". In: Journal of Machine Vision and Applications,(Peer-Review)
+* C. O. Quero, I. Rondon, and J. Martinez-Carranza. “Improving NIR single-pixel imaging: using deep image prior and GANs”. In: J. Opt. Soc. Am. A 42.2 (Feb. 2025), pp. 201–210. doi: 10.1364/ JOSAA.541763. url: https://opg.optica.org/josaa/abstract.cfm?URI=josaa-42-2-201.
 
-* C. A. Osorio Quero, D. Durini, and J. Martinez-Carranza. "Reviewing Unmanned Aerial Systems in Search and Rescue Technology: Exploring Open Challenges and Future Applications". In: International Journal of Disaster Risk Reduction (Peer-Review)
+* C. A. Osorio Quero and J. Martinez-Carranza. “Physics-Informed Machine Learning for UAV Control”. In: 2024 21st International Conference on Electrical Engineering, Computing Science
+and Automatic Control (CCE). 2024, pp. 1–6. doi: 10.1109/CCE62852.2024.10770871.
 
-* C. A. Osorio Quero,Daniel Durini, Irving Rondon, Jose Rangel-Magdaleno,Jose Martinez-Carranza. "Advancing NIR Single-Pixel Imaging with Deep Image Prior and Generative Adversarial Networks". In: Optics & Laser Technology (Peer-Review)
-
-* Carlos Osorio Quero, Daniel Leykam, and Irving Rondon Ojeda, "Res-U2Net: untrained deep learning for phase retrieval and image reconstruction," J. Opt. Soc.Am. A 41, 766-773 (2024)
+* C. O. Quero, D. Leykam, and I. R. Ojeda. “Res-U2Net: untrained deep learning for phase retrieval and image reconstruction”. In: J. Opt. Soc. Am. A 41.5 (Apr. 2024), pp. 766–773. doi: 10.1364/
+JOSAA.511074. url: https://opg.optica.org/josaa/abstract.cfm?URI=josaa-41-5-766.
 
 * C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. 
 
