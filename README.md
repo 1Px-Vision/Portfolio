@@ -19,6 +19,8 @@
 
 
 ## Education
+- University Diploma in Introduction to the Space Industry and Systems Fiuba-Argentina (_Dic 2025_)
+- University Diploma in Applied Geomatics CONAE/UNC-Argentina (_Dic 2024_)
 - Ph.D, Electronic Engineering | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Sept 2022_)
 - M.Sc, Space Science and Technology | National Institute of Astrophysics, Optics and Electronics-Mexico (INAOE) (_Agus 2017_)
 - Diploma of Higher Education in electric car and hydrogen | San Jorge University-Spain (_July 2016_)
